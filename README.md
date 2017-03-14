@@ -1,2 +1,2 @@
-# Hw_Programing
-The homework of programing.
+# lab1
+ In Unix platform use gcc compiler and run this program.
